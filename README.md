@@ -23,10 +23,11 @@ Model- view CONTROLLER is a pattern used in software engineering to seperate the
 As implies, the MVC pattern has three layer.
 
 # User Management App: User list page
+![first_page](https://github.com/Tarunima7/Tailorsoft-CRUD/blob/main/Assets/1.JPG)
 
-# Creating a user 
-
+# Creating a New User 
+![Creating_a_new_user](https://github.com/Tarunima7/Tailorsoft-CRUD/blob/main/Assets/2.JPG)
 # view list of users
-
+![List_of_users](https://github.com/Tarunima7/Tailorsoft-CRUD/blob/main/Assets/list%20of%20user.JPG)
 # deleting a user
-
+![Deleting user](https://github.com/Tarunima7/Tailorsoft-CRUD/blob/main/Assets/delete%20user.JPG)
