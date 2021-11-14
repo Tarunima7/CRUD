@@ -1,4 +1,4 @@
-# Tailorsoft-CRUD
+# CRUD
 
 we are building a small User Management web application that manages a collection of users.We will develop below basic features in our User Management web application:
 
